@@ -104,20 +104,6 @@
   </url>
   
   <url>
-    <loc>https://karlbaey101.github.io/tags/Past/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://karlbaey101.github.io/tags/Original/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://karlbaey101.github.io/tags/GettingStarted/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -140,6 +126,20 @@
   
   <url>
     <loc>https://karlbaey101.github.io/tags/DailyLife/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://karlbaey101.github.io/tags/Past/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://karlbaey101.github.io/tags/Original/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
