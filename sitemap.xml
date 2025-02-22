@@ -2,27 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://karlbaey101.github.io/2025/02/15/Lieu-Evanoui/</loc>
+    <loc>https://karlbaey101.github.io/2025/02/21/Markdown-grammar-quick-reference/</loc>
     
-    <lastmod>2025-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://karlbaey101.github.io/about/index.html</loc>
-    
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://karlbaey101.github.io/2025/02/09/the-edge-of-a-decade/</loc>
+    <loc>https://karlbaey101.github.io/friends/index.html</loc>
     
-    <lastmod>2025-02-12</lastmod>
+    <lastmod>2025-02-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,43 @@
   <url>
     <loc>https://karlbaey101.github.io/2025/02/10/commenting-system-launch/</loc>
     
-    <lastmod>2025-02-11</lastmod>
+    <lastmod>2025-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://karlbaey101.github.io/2025/02/08/repair-success/</loc>
+    
+    <lastmod>2025-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://karlbaey101.github.io/2025/02/09/the-edge-of-a-decade/</loc>
+    
+    <lastmod>2025-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://karlbaey101.github.io/about/index.html</loc>
+    
+    <lastmod>2025-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://karlbaey101.github.io/2025/02/15/Lieu-Evanoui/</loc>
+    
+    <lastmod>2025-02-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,24 +83,6 @@
   </url>
   
   <url>
-    <loc>https://karlbaey101.github.io/2025/02/08/repair-success/</loc>
-    
-    <lastmod>2025-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://karlbaey101.github.io/friends/index.html</loc>
-    
-    <lastmod>2025-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://karlbaey101.github.io/2025/02/08/my-first-blog/</loc>
     
     <lastmod>2025-02-10</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://karlbaey101.github.io/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,70 +102,70 @@
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Delights/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Steamgames/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Reviews/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/GettingStarted/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/GitHub/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Guide/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/DailyLife/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Past/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Sadness/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/tags/Original/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -165,21 +174,21 @@
   
   <url>
     <loc>https://karlbaey101.github.io/categories/Karlblogs/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/categories/Tales/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://karlbaey101.github.io/categories/Tech/</loc>
-    <lastmod>2025-02-15</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
