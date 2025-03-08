@@ -33,9 +33,9 @@
     <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
     
     
-    <category term="Reviews" scheme="https://karlbaey101.github.io/tags/Reviews/"/>
-    
     <category term="Guide" scheme="https://karlbaey101.github.io/tags/Guide/"/>
+    
+    <category term="Reviews" scheme="https://karlbaey101.github.io/tags/Reviews/"/>
     
   </entry>
   
@@ -190,7 +190,7 @@
     <link href="https://karlbaey101.github.io/articles/repair-success/"/>
     <id>https://karlbaey101.github.io/articles/repair-success/</id>
     <published>2025-02-08T15:32:52.000Z</published>
-    <updated>2025-02-22T13:34:59.688Z</updated>
+    <updated>2025-02-22T16:36:00.805Z</updated>
     
     <content type="html"><![CDATA[<p>卡尔白在搭建好博客之后，觉得 Hexo 提供的模板不合乎自己口味，就在 GitHub 找了个<a href="https://github.com/ppoffice/hexo-theme-icarus" title="快点我！">喜欢的模板</a>。经历了九九八十一难终于把参数调对了，就在准备发布的时候，意外发生了：</p><p>突然之间，页面消失不见，<strong>所有的</strong>条目都不能访问。他对着机箱发怒了一刻钟，毫无效果后只能老老实实翻配置文件。这是修改前的代码块：</p><figure class="highlight yaml"><figcaption><span>_config.icarus.yml</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Alipay donate button configurations</span></span><br><span class="line">    <span class="bullet">-</span></span><br><span class="line">        <span class="comment"># type: alipay</span></span><br><span class="line">        <span class="comment"># Alipay qrcode image URL</span></span><br><span class="line">        <span class="comment"># qrcode: &#x27;&#x27;</span></span><br><span class="line">    <span class="comment"># &quot;Buy me a coffee&quot; donate button configurations</span></span><br><span class="line">    <span class="bullet">-</span></span><br><span class="line">        <span class="comment"># type: buymeacoffee</span></span><br><span class="line">        <span class="comment"># URL to the &quot;Buy me a coffee&quot; page</span></span><br><span class="line">        <span class="comment"># url: &#x27;&#x27;</span></span><br><span class="line">    <span class="comment"># Patreon donate button configurations</span></span><br><span class="line">    <span class="bullet">-</span></span><br><span class="line">        <span class="comment">#type: patreon</span></span><br><span class="line">        <span class="comment"># URL to the Patreon page</span></span><br><span class="line">        <span class="comment">#url: &#x27;&#x27;</span></span><br></pre></td></tr></table></figure><p>问题很明显了，其中的分隔符 <code>-</code> 没有被注释，但我还是排查了好久才发现原因QwQ。所以只要把这些 <code>-</code> 前加上 <code>#</code> 就解决问题了。</p><p>要是不这样的话，整个网站都会消失，该死的 yaml……</p><p>最后附上一张图，这是我修复成功的结算画面：</p><p><img src="/images/RepairSuccess/RepairSuccess.png" alt="修复成功" title="RepairSuccess"></p>]]></content>
     
