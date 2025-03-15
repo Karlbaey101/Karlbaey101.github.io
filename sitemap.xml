@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://karlbaey101.github.io/articles/commenting-system-launch/</loc>
+    
+    <lastmod>2025-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/</loc>
     
     <lastmod>2025-03-15</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://karlbaey101.github.io/articles/repair-success/</loc>
-    
-    <lastmod>2025-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://karlbaey101.github.io/articles/commenting-system-launch/</loc>
     
     <lastmod>2025-02-22</lastmod>
     
