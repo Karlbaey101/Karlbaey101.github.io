@@ -6,7 +6,7 @@
   <link href="https://karlbaey101.github.io/atom.xml" rel="self"/>
   
   <link href="https://karlbaey101.github.io/"/>
-  <updated>2025-03-02T08:22:36.740Z</updated>
+  <updated>2025-03-15T16:24:14.337Z</updated>
   <id>https://karlbaey101.github.io/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新评论系统上线！🚀（以及其他的技术更新）</title>
+    <link href="https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/"/>
+    <id>https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/</id>
+    <published>2025-03-15T13:17:01.000Z</published>
+    <updated>2025-03-15T16:24:14.337Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近给自己的博客折腾了点新东西，还是很开心的。下面就把这些更新写在这篇博文里吧。</p><h1 id="新评论系统"><a href="#新评论系统" class="headerlink" title="新评论系统"></a>新评论系统</h1><p>众所周知，我的评论系统最早用的是 <a href="https://karlbaey101.github.io/articles/commenting-system-launch/">utterances</a>，但是体验并不好：评论一多起来，评论输入框就会出现在页面最下方。我本来想发 issue，但是发现已经有不少人反映过这个问题了 <a href="https://github.com/utterance/utterances/issues/513">Place new comment box above comments #513</a>：</p><p><img src="/images/NewCommentingSystem/Issue513.png" alt="大意是说硬编码是这么干的，输入框不会改位置" title="Issue #513"></p><p>然后发现 <a href="https://ppoffice.github.io/hexo-theme-icarus/">icarus 模板</a>原生支持 <a href="https://giscus.app/zh-CN">giscus 评论系统</a>，我一用就喜欢上了：评论框置顶、评论表态跟回复功能。这简直就是我见过最最理想的评论系统。这里有张效果图：</p><p><img src="/images/NewCommentingSystem/GiscusRendering.png" alt="很精美，我很喜欢" title="giscus"></p><p>现在忙着给以前托管在 issues 的评论补档，不过还是很开心的。</p><h1 id="RSS-订阅源和-follow-it-订阅"><a href="#RSS-订阅源和-follow-it-订阅" class="headerlink" title="RSS 订阅源和 follow.it 订阅"></a>RSS 订阅源和 follow.it 订阅</h1><p>这两个技术性调整都是为了方便喜欢我博客的朋友们及时获取订阅的，具体操作见下面：</p><h2 id="RSS-订阅源"><a href="#RSS-订阅源" class="headerlink" title="RSS 订阅源"></a>RSS 订阅源</h2><p>关于 RSS 订阅源，参考这篇文章：<a href="https://zhuanlan.zhihu.com/p/349349861">《知道RSS的人越少，我就越希望它能被人知道！》——阿虚同学</a>。</p><p>考虑到我一直积极维护的互联网精神（也就是自由、开放、合作、共享的精神），我还是给自己的博客开了 RSS 订阅源。你可以按我头像下的<i class="fa-solid fa-rss"></i>符号或者<a href="/atom.xml">这里</a>来获得 RSS 订阅源。而关于如何使用本站的 RSS，请参考<a href="/RSS-tutorial-for-karlblogs">我的这篇博客</a>。</p><h2 id="follow-it-订阅"><a href="#follow-it-订阅" class="headerlink" title="follow.it 订阅"></a>follow.it 订阅</h2><p>相比起 RSS 订阅，follow.it 会方便许多。左侧有一个输入框：</p><p><img src="/images/NewCommentingSystem/FollowItInput.png" title="Input"></p><p>只要输入你的电邮并且在你的收件箱里激活，就可以通过 <a href="https://follow.it/">follow.it</a> 提供的订阅收取我的更新通知了！它与 RSS 订阅有相似之处，不同的是，RSS 订阅更简洁明了而 follow.it 只需要查收邮件。</p><h1 id="萌国备案"><a href="#萌国备案" class="headerlink" title="萌国备案"></a>萌国备案</h1><p>其实这是很早之前的事了，有朋友推荐我去一些人多的地方混个脸熟，于是就找到了<a href="//moe.one">萌社区</a>并且注册了<a href="//icp.gov.moe/?keyword=20255566">备案</a>，这是我在<a href="https://moe.one/user-592.htm">萌社区的个人资料</a>。但愿能招揽些人来看我的网站吧。</p>]]></content>
+    
+    
+    <summary type="html">终于摆脱臃肿的 utterances 了！我的网站也多了很多新东西！</summary>
+    
+    
+    
+    <category term="Tech" scheme="https://karlbaey101.github.io/categories/Tech/"/>
+    
+    
+    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    
+    <category term="GettingStarted" scheme="https://karlbaey101.github.io/tags/GettingStarted/"/>
+    
+    <category term="GitHub" scheme="https://karlbaey101.github.io/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Markdown编辑器推荐</title>
     <link href="https://karlbaey101.github.io/articles/Markdown-editors-recommend/"/>
     <id>https://karlbaey101.github.io/articles/Markdown-editors-recommend/</id>
     <published>2025-03-01T15:52:50.000Z</published>
-    <updated>2025-03-02T08:22:36.740Z</updated>
+    <updated>2025-03-15T16:05:53.524Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天卡尔白离开学校的时候看到了一张很有意思的海报，当然，也相当高血压：</p><p><img src="/images/MarkdownEditorsRecommend/BadPoster.jpg" alt="这做的烂透了！"></p><p>这张海报的四级标题、粗体字和表格都没有正确地渲染。可以看出制作者对 Markdown 如何正确使用知之甚少了。</p><p>下面就推两个我正使用的 Markdown 编辑器吧。</p><h1 id="推荐"><a href="#推荐" class="headerlink" title="推荐"></a>推荐</h1><h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><p><a href="https://typoraio.cn/">Typora</a> 是老牌 Markdown 编辑器了。它最突出的特点就是极度的简洁，让人可以专注于内容的创作上。不过虽然简洁，它内在的功能也是样样不少，就比如论文常用的 $\LaTeX$（MathJax），Typora 也是原生支持。Typora 的界面是长这样的：</p><p><img src="/images/MarkdownEditorsRecommend/TyporaUI.png" alt="简洁得过头了"></p><p>同时 Typora 提供了非常丰富的快捷键，比如下面这些：</p><p><img src="/images/markdownEditorsRecommend/TyporaEdits.png" alt="真的记得下来吗？"></p><p>官网下载速度实在太慢，卡尔白这里提供一个下载源。<a href="https://karlbaey101.github.io/special/Download-Typora">按我下载⬇️</a></p><p><del>以后又可以水一篇 Typora 了，嘿嘿。</del></p><h2 id="Microsoft-Visual-Studio-Code"><a href="#Microsoft-Visual-Studio-Code" class="headerlink" title="Microsoft Visual Studio Code"></a>Microsoft Visual Studio Code</h2><p>VSCode 也是耳熟能详了，直接贴上<a href="https://code.visualstudio.com/">官网地址⤴️</a>。VSCode 强大之处在于它不局限在 Markdown 本身，而是发挥出多语言写作的优势。举个例子：Markdown 与写博客非常常用的 JavaScript 可以在同一个窗口内共同运行，而不需要多开窗口。此外，借助 VSCode 里无数方便的插件，Markdown 也能做到支持 $\LaTeX$（KaTeX）。虽然相较 Typora，VSCode 缺少了简洁，但是它非常适应程序员的需要。</p><p>如果使用 VSCode，我十分推荐安装这几个插件：<br><img src="/images/markdownEditorsRecommend/VSCodePlugins.png" alt="非常实用！按下 Ctrl + K + V 就能快速预览。其余内容参考 GitHub 页。"></p><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>没想到为了一个错误渲染 Markdown 我还专门<del>水</del>写了一大段文字。保证每周更新的进度又向前迈了一步，好耶！这个过程里也学会了怎么把 GitHub Pages 链接到下载页，至少没有蠢到把 GitHub 当网盘使。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天卡尔白离开学校的时候看到了一张很有意思的海报，当然，也相当高血压：</p><p><img src="/images/MarkdownEditorsRecommend/BadPoster.jpg" alt="这做的烂透了！"></p><p>这张海报的四级标题、粗体字和表格都没有正确地渲染。可以看出制作者对 Markdown 如何正确使用知之甚少了。</p><p>下面就推两个我正使用的 Markdown 编辑器吧。</p><h1 id="推荐"><a href="#推荐" class="headerlink" title="推荐"></a>推荐</h1><h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><p><a href="https://typoraio.cn/">Typora</a> 是老牌 Markdown 编辑器了。它最突出的特点就是极度的简洁，让人可以专注于内容的创作上。不过虽然简洁，它内在的功能也是样样不少，就比如论文常用的 \(\LaTeX\)（MathJax），Typora 也是原生支持。Typora 的界面是长这样的：</p><p><img src="/images/MarkdownEditorsRecommend/TyporaUI.png" alt="简洁得过头了"></p><p>同时 Typora 提供了非常丰富的快捷键，比如下面这些：</p><p><img src="/images/MarkdownEditorsRecommend/TyporaEdits.png" alt="真的记得下来吗？"></p><p>官网下载速度实在太慢，卡尔白这里提供一个下载源。<a href="https://karlbaey101.github.io/special/Download-Typora">按我下载⬇️</a></p><p><del>以后又可以水一篇 Typora 了，嘿嘿。</del></p><h2 id="Microsoft-Visual-Studio-Code"><a href="#Microsoft-Visual-Studio-Code" class="headerlink" title="Microsoft Visual Studio Code"></a>Microsoft Visual Studio Code</h2><p>VSCode 也是耳熟能详了，直接贴上<a href="https://code.visualstudio.com/">官网地址⤴️</a>。VSCode 强大之处在于它不局限在 Markdown 本身，而是发挥出多语言写作的优势。举个例子：Markdown 与写博客非常常用的 JavaScript 可以在同一个窗口内共同运行，而不需要多开窗口。此外，借助 VSCode 里无数方便的插件，Markdown 也能做到支持 \(\LaTeX\)（KaTeX）。虽然相较 Typora，VSCode 缺少了简洁，但是它非常适应程序员的需要。</p><p>如果使用 VSCode，我十分推荐安装这几个插件：<br><img src="/images/MarkdownEditorsRecommend/VSCodePlugins.png" alt="非常实用！按下 Ctrl + K + V 就能快速预览。其余内容参考 GitHub 页。"></p><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>没想到为了一个错误渲染 Markdown 我还专门<del>水</del>写了一大段文字。保证每周更新的进度又向前迈了一步，好耶！这个过程里也学会了怎么把 GitHub Pages 链接到下载页，至少没有蠢到把 GitHub 当网盘使。</p>]]></content>
     
     
     <summary type="html">学校里看到了一张相当令人高血压的 Markdown 格式海报，居然还是学校科创社的作品。我觉得很有必要写一些 Markdown 的正确打开方式了。</summary>
@@ -213,9 +238,9 @@
     <link href="https://karlbaey101.github.io/articles/my-first-blog/"/>
     <id>https://karlbaey101.github.io/articles/my-first-blog/</id>
     <published>2025-02-08T09:40:24.000Z</published>
-    <updated>2025-02-10T09:18:30.740Z</updated>
+    <updated>2025-03-15T14:19:32.008Z</updated>
     
-    <content type="html"><![CDATA[<p>不知道花了多少时间，终于把我的 GitHub 个人博客搭好了。</p><span id="more"></span><p>中间经历了 hexo 无法部署、断网等等困难。</p><p>现在可以写个人博客了，不用依赖新浪微博真是太好了。</p><p><a href="https://github.com/Karlbaey101/Karlbaey101.github.io" title="快点我！">GitHub项目地址^➲^</a></p><p>本博客几乎全部的图片都<del>由图床托管</del>搭载在仓库中，所以要是崩了直接发邮件告诉博主就行。</p><p>这里放张博主的 GitHub 头像，算是博客之路的起点：</p><p><img src="/images/avatar.png" alt="WeChat&amp;&amp;GitHubAvatar" title="WeChat&amp;&amp;GitHubAvatar_Karlbaey101"></p>]]></content>
+    <content type="html"><![CDATA[<p>不知道花了多少时间，终于把我的 GitHub 个人博客搭好了。</p><span id="more"></span><p>中间经历了 hexo 无法部署、断网等等困难。</p><p>现在可以写个人博客了，不用依赖新浪微博真是太好了。</p><p><a href="https://github.com/Karlbaey101/Karlbaey101.github.io" title="快点我！">GitHub项目地址<sup>➲</sup></a></p><p>本博客几乎全部的图片都<del>由图床托管</del>搭载在仓库中，所以要是崩了直接发邮件告诉博主就行。</p><p>这里放张博主的 GitHub 头像，算是博客之路的起点：</p><p><img src="/images/avatar.png" alt="WeChat&amp;&amp;GitHubAvatar" title="WeChat&amp;&amp;GitHubAvatar_Karlbaey101"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;不知道花了多少时间，终于把我的 GitHub 个人博客搭好了。&lt;/p&gt;</summary>
