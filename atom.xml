@@ -6,7 +6,7 @@
   <link href="https://karlbaey101.github.io/atom.xml" rel="self"/>
   
   <link href="https://karlbaey101.github.io/"/>
-  <updated>2025-03-15T16:35:38.107Z</updated>
+  <updated>2025-03-15T17:09:48.281Z</updated>
   <id>https://karlbaey101.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/"/>
     <id>https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/</id>
     <published>2025-03-15T13:17:01.000Z</published>
-    <updated>2025-03-15T16:35:38.107Z</updated>
+    <updated>2025-03-15T17:09:48.281Z</updated>
     
     <content type="html"><![CDATA[<p>最近给自己的博客折腾了点新东西，还是很开心的。下面就把这些更新写在这篇博文里吧。</p><h1 id="新评论系统"><a href="#新评论系统" class="headerlink" title="新评论系统"></a>新评论系统</h1><p>众所周知，我的评论系统最早用的是 <a href="https://karlbaey101.github.io/articles/commenting-system-launch/">utterances</a>，但是体验并不好：评论一多起来，评论输入框就会出现在页面最下方。我本来想发 issue，但是发现已经有不少人反映过这个问题了 <a href="https://github.com/utterance/utterances/issues/513">Place new comment box above comments #513</a>：</p><p><img src="/images/NewCommentingSystem/Issue513.png" alt="大意是说硬编码是这么干的，输入框不会改位置" title="Issue #513"></p><p>然后发现 <a href="https://ppoffice.github.io/hexo-theme-icarus/">icarus 模板</a>原生支持 <a href="https://giscus.app/zh-CN">giscus 评论系统</a>，我一用就喜欢上了：评论框置顶、评论表态跟回复功能。这简直就是我见过最最理想的评论系统。这里有张效果图：</p><p><img src="/images/NewCommentingSystem/GiscusRendering.png" alt="很精美，我很喜欢" title="giscus"></p><p>现在忙着给以前托管在 issues 的评论补档，不过还是很开心的。</p><h1 id="RSS-订阅源和-follow-it-订阅"><a href="#RSS-订阅源和-follow-it-订阅" class="headerlink" title="RSS 订阅源和 follow.it 订阅"></a>RSS 订阅源和 follow.it 订阅</h1><p>这两个技术性调整都是为了方便喜欢我博客的朋友们及时获取订阅的，具体操作见下面：</p><h2 id="RSS-订阅源"><a href="#RSS-订阅源" class="headerlink" title="RSS 订阅源"></a>RSS 订阅源</h2><p>关于 RSS 订阅源，参考这篇文章：<a href="https://zhuanlan.zhihu.com/p/349349861">《知道RSS的人越少，我就越希望它能被人知道！》——阿虚同学</a>。</p><p>考虑到我一直积极维护的互联网精神（也就是自由、开放、合作、共享的精神），我还是给自己的博客开了 RSS 订阅源。你可以按我头像下的<i class="fa-solid fa-rss"></i>符号或者<a href="/atom.xml">这里</a>来获得 RSS 订阅源。而关于如何使用本站的 RSS，请参考<a href="/RSS-tutorial-for-karlblogs">我的这篇博客</a>。</p><h2 id="follow-it-订阅"><a href="#follow-it-订阅" class="headerlink" title="follow.it 订阅"></a>follow.it 订阅</h2><p>相比起 RSS 订阅，follow.it 会方便许多。左侧有一个输入框：</p><p><img src="/images/NewCommentingSystem/FollowItInput.png" title="Input"></p><p>只要输入你的电邮并且在你的收件箱里激活，就可以通过 <a href="https://follow.it/">follow.it</a> 提供的订阅收取我的更新通知了！它与 RSS 订阅有相似之处，不同的是，RSS 订阅更简洁明了而 follow.it 只需要查收邮件。</p><h1 id="萌国备案"><a href="#萌国备案" class="headerlink" title="萌国备案"></a>萌国备案</h1><p>其实这是很早之前的事了，有朋友推荐我去一些人多的地方混个脸熟，于是就找到了<a href="//moe.one">萌社区</a>并且注册了<a href="//icp.gov.moe/?keyword=20255566">备案</a>，这是我在<a href="https://moe.one/user-592.htm">萌社区的个人资料</a>。但愿能招揽些人来看我的网站吧。</p><p><del>话说有没有人注意到标题的 emoji 从烟花变成火箭了？</del></p>]]></content>
     
@@ -58,9 +58,9 @@
     <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
     
     
-    <category term="Guide" scheme="https://karlbaey101.github.io/tags/Guide/"/>
-    
     <category term="Reviews" scheme="https://karlbaey101.github.io/tags/Reviews/"/>
+    
+    <category term="Guide" scheme="https://karlbaey101.github.io/tags/Guide/"/>
     
   </entry>
   
@@ -165,7 +165,7 @@
     <link href="https://karlbaey101.github.io/articles/HELLTAKER-Review/"/>
     <id>https://karlbaey101.github.io/articles/HELLTAKER-Review/</id>
     <published>2025-02-09T11:51:49.000Z</published>
-    <updated>2025-02-10T16:29:46.502Z</updated>
+    <updated>2025-03-15T16:56:02.618Z</updated>
     
     <content type="html"><![CDATA[<h1 id="游戏主要内容"><a href="#游戏主要内容" class="headerlink" title="游戏主要内容"></a>游戏主要内容</h1><p>《HELLTAKER》，中文译名《地狱把妹王》。</p><p>玩家扮演主角，下地狱寻找天使，但是因为种种机缘巧合，</p>]]></content>
     
