@@ -6,7 +6,7 @@
   <link href="https://karlbaey101.github.io/atom.xml" rel="self"/>
   
   <link href="https://karlbaey101.github.io/"/>
-  <updated>2025-03-15T17:09:48.281Z</updated>
+  <updated>2025-03-22T09:08:55.102Z</updated>
   <id>https://karlbaey101.github.io/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我终于有自己的域名啦！</title>
+    <link href="https://karlbaey101.github.io/articles/My-own-domain-karlbaey.top/"/>
+    <id>https://karlbaey101.github.io/articles/My-own-domain-karlbaey.top/</id>
+    <published>2025-03-21T15:38:41.000Z</published>
+    <updated>2025-03-22T09:08:55.102Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="在拥有域名以前……"><a href="#在拥有域名以前……" class="headerlink" title="在拥有域名以前……"></a>在拥有域名以前……</h2><p>受阮一峰先生的影响，我对个人博客这一块很早就有了非常浓厚的兴趣，但是碍于技术条件一直未能如愿。不过很幸运的是，我在 2025 年寒假时用上了个人电脑，也自己学习了怎么用 Hexo 框架搭建博客。</p><p>2025 年 2 月 8 日，我注册了个人博客站，也就是你看到的这个站点。同天发表了<a href="/articles/my-first-blog">第一篇博客</a>，就此踏上了 blog 之路。本着吃水不忘挖井人的精神，我还发布了一篇教学 <a href="/articles/Hexo-blog-and-you">Hexo 博客与你</a>。</p><p>我没有 VPS 或可供当服务器的设备，因此白嫖 GitHub Pages 部署网页。但是显然有弊端：GitHub Pages 只支持如 .html 等的静态页面，对 php 页面无能为力。不过对我来说无伤大雅，至少我在互联网上有自己的基地了。</p><p><img src="/images/NewDomain/FirstCommit.png" alt="第一次提交记录，甚至还失败了"></p><p>看到不知不觉就一个月了心里还是很感慨的，虽然每一步走的都堪称艰难。（因为我的代码技术太差了嘛）</p><p>但这么一路白嫖下去也不是个事，看看：karlbaey101.github.io 这个网址，太长了。我需要一个短些的网址。于是……</p><h2 id="Karlbaey-top"><a href="#Karlbaey-top" class="headerlink" title="Karlbaey.top"></a>Karlbaey.top</h2><p>字面意思很好理解，就取了“最顶尖的卡尔白”这个含义。还有一个原因就是 .top 顶级域名比 .com，.cn 之流便宜得多，也省去了备案的麻烦。</p><article class="message is-success is-default">        <div class="message-header"><p><i class="far fa-folder-open mr-2"></i>特别鸣谢</p></div>        <div class="message-body">            <p>非常感谢 <a href="//nekoa.day">Nekoaday</a> 为我建站和域名选择提供了非常有价值的建议和帮助！相关 issue：<a href="//github.com/Karlbaey101/Karlbaey101.github.io/issues/2">miaomiaolol · Issue #2 · Karlbaey101&#x2F;Karlbaey101.github.io</a></p>        </div>    </article><p>域名是在 <a href="//spaceship.com">Spaceship</a> 上购买的，就顺便用了 Spaceship 提供的 DNS 解析服务，不得不说体验非常好。不过后来还是把一些服务托管在 <a href="//cloudflare.com">Cloudflare</a> 上了，因为我需要电子邮箱服务。以后可能会慢慢多起来的。</p><p>不过可能很少有人知道我原本是打算买 Karlblo.gs 这个域名的，但是我嫌域名长得不好看最终作罢。Karlbaey 也是个陪伴我很久的虚拟形象了，用这个来做域名显然更好。</p><h2 id="以后的计划"><a href="#以后的计划" class="headerlink" title="以后的计划"></a>以后的计划</h2><p>好多想做的，好多想说的，都慢慢来吧。</p><ul><li>每周更新一篇博客，内容不限，哪怕是碎碎念也算是努力过的证明。一年下来也会有 50 篇的。</li><li>一直保留着 Karlbaey.top 这个域名，因为我实在是太喜欢了。</li><li>加入<a href="https://foreverblog.cn/">十年之约</a>，认识更多更多的中文 Blogger。</li></ul><p>嗯，就这样吧。太阳照常升起，又是新的一天。</p>]]></content>
+    
+    
+    <summary type="html">在建站一个月以后，我拥有了自己的域名。</summary>
+    
+    
+    
+    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    
+    
+    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    
+    <category term="GettingStarted" scheme="https://karlbaey101.github.io/tags/GettingStarted/"/>
+    
+    <category term="GitHub" scheme="https://karlbaey101.github.io/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
     <title>新评论系统上线！🚀（以及其他的技术更新）</title>
     <link href="https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/"/>
     <id>https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/</id>
     <published>2025-03-15T13:17:01.000Z</published>
-    <updated>2025-03-15T17:09:48.281Z</updated>
+    <updated>2025-03-22T07:51:44.212Z</updated>
     
-    <content type="html"><![CDATA[<p>最近给自己的博客折腾了点新东西，还是很开心的。下面就把这些更新写在这篇博文里吧。</p><h1 id="新评论系统"><a href="#新评论系统" class="headerlink" title="新评论系统"></a>新评论系统</h1><p>众所周知，我的评论系统最早用的是 <a href="https://karlbaey101.github.io/articles/commenting-system-launch/">utterances</a>，但是体验并不好：评论一多起来，评论输入框就会出现在页面最下方。我本来想发 issue，但是发现已经有不少人反映过这个问题了 <a href="https://github.com/utterance/utterances/issues/513">Place new comment box above comments #513</a>：</p><p><img src="/images/NewCommentingSystem/Issue513.png" alt="大意是说硬编码是这么干的，输入框不会改位置" title="Issue #513"></p><p>然后发现 <a href="https://ppoffice.github.io/hexo-theme-icarus/">icarus 模板</a>原生支持 <a href="https://giscus.app/zh-CN">giscus 评论系统</a>，我一用就喜欢上了：评论框置顶、评论表态跟回复功能。这简直就是我见过最最理想的评论系统。这里有张效果图：</p><p><img src="/images/NewCommentingSystem/GiscusRendering.png" alt="很精美，我很喜欢" title="giscus"></p><p>现在忙着给以前托管在 issues 的评论补档，不过还是很开心的。</p><h1 id="RSS-订阅源和-follow-it-订阅"><a href="#RSS-订阅源和-follow-it-订阅" class="headerlink" title="RSS 订阅源和 follow.it 订阅"></a>RSS 订阅源和 follow.it 订阅</h1><p>这两个技术性调整都是为了方便喜欢我博客的朋友们及时获取订阅的，具体操作见下面：</p><h2 id="RSS-订阅源"><a href="#RSS-订阅源" class="headerlink" title="RSS 订阅源"></a>RSS 订阅源</h2><p>关于 RSS 订阅源，参考这篇文章：<a href="https://zhuanlan.zhihu.com/p/349349861">《知道RSS的人越少，我就越希望它能被人知道！》——阿虚同学</a>。</p><p>考虑到我一直积极维护的互联网精神（也就是自由、开放、合作、共享的精神），我还是给自己的博客开了 RSS 订阅源。你可以按我头像下的<i class="fa-solid fa-rss"></i>符号或者<a href="/atom.xml">这里</a>来获得 RSS 订阅源。而关于如何使用本站的 RSS，请参考<a href="/RSS-tutorial-for-karlblogs">我的这篇博客</a>。</p><h2 id="follow-it-订阅"><a href="#follow-it-订阅" class="headerlink" title="follow.it 订阅"></a>follow.it 订阅</h2><p>相比起 RSS 订阅，follow.it 会方便许多。左侧有一个输入框：</p><p><img src="/images/NewCommentingSystem/FollowItInput.png" title="Input"></p><p>只要输入你的电邮并且在你的收件箱里激活，就可以通过 <a href="https://follow.it/">follow.it</a> 提供的订阅收取我的更新通知了！它与 RSS 订阅有相似之处，不同的是，RSS 订阅更简洁明了而 follow.it 只需要查收邮件。</p><h1 id="萌国备案"><a href="#萌国备案" class="headerlink" title="萌国备案"></a>萌国备案</h1><p>其实这是很早之前的事了，有朋友推荐我去一些人多的地方混个脸熟，于是就找到了<a href="//moe.one">萌社区</a>并且注册了<a href="//icp.gov.moe/?keyword=20255566">备案</a>，这是我在<a href="https://moe.one/user-592.htm">萌社区的个人资料</a>。但愿能招揽些人来看我的网站吧。</p><p><del>话说有没有人注意到标题的 emoji 从烟花变成火箭了？</del></p>]]></content>
+    <content type="html"><![CDATA[<p>最近给自己的博客折腾了点新东西，还是很开心的。下面就把这些更新写在这篇博文里吧。</p><h1 id="新评论系统"><a href="#新评论系统" class="headerlink" title="新评论系统"></a>新评论系统</h1><p>众所周知，我的评论系统最早用的是 <a href="/articles/commenting-system-launch/">utterances</a>，但是体验并不好：评论一多起来，评论输入框就会出现在页面最下方。我本来想发 issue，但是发现已经有不少人反映过这个问题了 <a href="https://github.com/utterance/utterances/issues/513">Place new comment box above comments #513</a>：</p><p><img src="/images/NewCommentingSystem/Issue513.png" alt="大意是说硬编码是这么干的，输入框不会改位置" title="Issue #513"></p><p>然后发现 <a href="https://ppoffice.github.io/hexo-theme-icarus/">icarus 模板</a>原生支持 <a href="https://giscus.app/zh-CN">giscus 评论系统</a>，我一用就喜欢上了：评论框置顶、评论表态跟回复功能。这简直就是我见过最最理想的评论系统。这里有张效果图：</p><p><img src="/images/NewCommentingSystem/GiscusRendering.png" alt="很精美，我很喜欢" title="giscus"></p><p>现在忙着给以前托管在 issues 的评论补档，不过还是很开心的。</p><h1 id="RSS-订阅源和-follow-it-订阅"><a href="#RSS-订阅源和-follow-it-订阅" class="headerlink" title="RSS 订阅源和 follow.it 订阅"></a>RSS 订阅源和 follow.it 订阅</h1><p>这两个技术性调整都是为了方便喜欢我博客的朋友们及时获取订阅的，具体操作见下面：</p><h2 id="RSS-订阅源"><a href="#RSS-订阅源" class="headerlink" title="RSS 订阅源"></a>RSS 订阅源</h2><p>关于 RSS 订阅源，参考这篇文章：<a href="https://zhuanlan.zhihu.com/p/349349861">《知道RSS的人越少，我就越希望它能被人知道！》——阿虚同学</a>。</p><p>考虑到我一直积极维护的互联网精神（也就是自由、开放、合作、共享的精神），我还是给自己的博客开了 RSS 订阅源。你可以按我头像下的 <i class="fa-solid fa-rss"></i> 符号或者<a href="/atom.xml">这里</a>来获得 RSS 订阅源。而关于如何使用本站的 RSS，请参考<a href="/articlRSS-tutorial-for-karlblogs">我的这篇博客</a>。</p><h2 id="follow-it-订阅"><a href="#follow-it-订阅" class="headerlink" title="follow.it 订阅"></a>follow.it 订阅</h2><p>相比起 RSS 订阅，follow.it 会方便许多。左侧有一个输入框：</p><p><img src="/images/NewCommentingSystem/FollowItInput.png" title="Input"></p><p>只要输入你的电邮并且在你的收件箱里激活，就可以通过 <a href="https://follow.it/">follow.it</a> 提供的订阅收取我的更新通知了！它与 RSS 订阅有相似之处，不同的是，RSS 订阅更简洁明了而 follow.it 只需要查收邮件。</p><h1 id="萌国备案"><a href="#萌国备案" class="headerlink" title="萌国备案"></a>萌国备案</h1><p>其实这是很早之前的事了，有朋友推荐我去一些人多的地方混个脸熟，于是就找到了<a href="//moe.one">萌社区</a>并且注册了<a href="//icp.gov.moe/?keyword=20255566">备案</a>，这是我在<a href="https://moe.one/user-592.htm">萌社区的个人资料</a>。但愿能招揽些人来看我的网站吧。</p><p><del>话说有没有人注意到标题的 emoji 从烟花变成火箭了？</del></p>]]></content>
     
     
     <summary type="html">终于摆脱臃肿的 utterances 了！我的网站也多了很多新东西！</summary>
@@ -115,9 +140,9 @@
     <link href="https://karlbaey101.github.io/articles/commenting-system-launch/"/>
     <id>https://karlbaey101.github.io/articles/commenting-system-launch/</id>
     <published>2025-02-10T09:11:13.000Z</published>
-    <updated>2025-03-15T16:47:25.400Z</updated>
+    <updated>2025-03-22T06:55:47.197Z</updated>
     
-    <content type="html"><![CDATA[<article class="message is-info is-default">        <div class="message-header"><p><i class="fa mr-2"></i>提醒</p></div>        <div class="message-body">            <p>这篇博客里叙述的东西已经不再适用于本站了，关于本站的评论系统等请看<a href="/articles/New-commenting-system-and-other-updates/">此处</a>。</p>        </div>    </article><p>我在搭好自己的博客之后，决定给自己添加一个评论系统，bing 一番后选择了最时兴的 Gitalk。当时的我太单纯，不知道 Gitalk 的代理服务器被墙了，<a href="https://github.com/gitalk/gitalk/issues/514">点我查看完整 issue</a>。&#x2F;(ㄒoㄒ)&#x2F;~~</p><p><img src="/images/CommentSystemLaunch/GitalkInstallFailed.png" alt="Gitalk 无法访问" title="就像这样"></p><p>本着有问题就解决问题的思想，我试了挂其他大佬的代理（HTTP 429：请求过多），自己在 Cloudflare 搭反向代理（截至本博客发布日期，Cloudflare 依然关闭免费反向代理服务。但我觉得我没找到的可能性大一点，因为我读不懂英文）。全部失败。</p><p>活不下去了，换一个评论吧。</p><p>然后换了 <a href="https://github.com/apps/giscus">giscus</a>，但我配置好才发现什么都不显示，配置又出问题了。最后才选用了现在的 <a href="https://github.com/apps/utterances">utterances</a>，弊端就是要求评论者要有 GitHub 账户，其他的话我用着还挺满意的。</p><p><del>如果有大佬愿意给我提供个 Gitalk 的代理我倒是很愿意换回来。</del></p><p>希望不要再出什么意料之外的错误了……</p><blockquote><p>目前已知的问题：</p><ul><li>使用 utterances 做评论会使得评论框出现在评论区底部。</li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<article class="message is-info is-default">        <div class="message-header"><p><i class="fa fa-warning mr-2"></i>提醒</p></div>        <div class="message-body">            <p>这篇博客里叙述的东西已经不再适用于本站了，关于本站的评论系统等请看<a href="/articles/New-commenting-system-and-other-updates/">此处</a>。</p>        </div>    </article><p>我在搭好自己的博客之后，决定给自己添加一个评论系统，bing 一番后选择了最时兴的 Gitalk。当时的我太单纯，不知道 Gitalk 的代理服务器被墙了，<a href="https://github.com/gitalk/gitalk/issues/514">点我查看完整 issue</a>。&#x2F;(ㄒoㄒ)&#x2F;~~</p><p><img src="/images/CommentSystemLaunch/GitalkInstallFailed.png" alt="Gitalk 无法访问" title="就像这样"></p><p>本着有问题就解决问题的思想，我试了挂其他大佬的代理（HTTP 429：请求过多），自己在 Cloudflare 搭反向代理（截至本博客发布日期，Cloudflare 依然关闭免费反向代理服务。但我觉得我没找到的可能性大一点，因为我读不懂英文）。全部失败。</p><p>活不下去了，换一个评论吧。</p><p>然后换了 <a href="https://github.com/apps/giscus">giscus</a>，但我配置好才发现什么都不显示，配置又出问题了。最后才选用了现在的 <a href="https://github.com/apps/utterances">utterances</a>，弊端就是要求评论者要有 GitHub 账户，其他的话我用着还挺满意的。</p><p><del>如果有大佬愿意给我提供个 Gitalk 的代理我倒是很愿意换回来。</del></p><p>希望不要再出什么意料之外的错误了……</p><blockquote><p>目前已知的问题：</p><ul><li>使用 utterances 做评论会使得评论框出现在评论区底部。</li></ul></blockquote>]]></content>
     
     
     <summary type="html">在有自己的站点之后，我才认识到博客生涯并非一帆风顺。</summary>
