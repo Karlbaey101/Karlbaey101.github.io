@@ -3,11 +3,11 @@
   <title>Karlblogs</title>
   
   
-  <link href="https://karlbaey101.github.io/atom.xml" rel="self"/>
+  <link href="https://karlbaey.top/atom.xml" rel="self"/>
   
-  <link href="https://karlbaey101.github.io/"/>
+  <link href="https://karlbaey.top/"/>
   <updated>2025-03-22T09:08:55.102Z</updated>
-  <id>https://karlbaey101.github.io/</id>
+  <id>https://karlbaey.top/</id>
   
   <author>
     <name>Jerry Karlbaey</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我终于有自己的域名啦！</title>
-    <link href="https://karlbaey101.github.io/articles/My-own-domain-karlbaey.top/"/>
-    <id>https://karlbaey101.github.io/articles/My-own-domain-karlbaey.top/</id>
+    <link href="https://karlbaey.top/articles/My-own-domain-karlbaey.top/"/>
+    <id>https://karlbaey.top/articles/My-own-domain-karlbaey.top/</id>
     <published>2025-03-21T15:38:41.000Z</published>
     <updated>2025-03-22T09:08:55.102Z</updated>
     
@@ -30,21 +30,21 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="GettingStarted" scheme="https://karlbaey101.github.io/tags/GettingStarted/"/>
+    <category term="GettingStarted" scheme="https://karlbaey.top/tags/GettingStarted/"/>
     
-    <category term="GitHub" scheme="https://karlbaey101.github.io/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://karlbaey.top/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>新评论系统上线！🚀（以及其他的技术更新）</title>
-    <link href="https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/"/>
-    <id>https://karlbaey101.github.io/articles/New-commenting-system-and-other-updates/</id>
+    <link href="https://karlbaey.top/articles/New-commenting-system-and-other-updates/"/>
+    <id>https://karlbaey.top/articles/New-commenting-system-and-other-updates/</id>
     <published>2025-03-15T13:17:01.000Z</published>
     <updated>2025-03-22T07:51:44.212Z</updated>
     
@@ -55,21 +55,21 @@
     
     
     
-    <category term="Tech" scheme="https://karlbaey101.github.io/categories/Tech/"/>
+    <category term="Tech" scheme="https://karlbaey.top/categories/Tech/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="GettingStarted" scheme="https://karlbaey101.github.io/tags/GettingStarted/"/>
+    <category term="GettingStarted" scheme="https://karlbaey.top/tags/GettingStarted/"/>
     
-    <category term="GitHub" scheme="https://karlbaey101.github.io/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://karlbaey.top/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>Markdown编辑器推荐</title>
-    <link href="https://karlbaey101.github.io/articles/Markdown-editors-recommend/"/>
-    <id>https://karlbaey101.github.io/articles/Markdown-editors-recommend/</id>
+    <link href="https://karlbaey.top/articles/Markdown-editors-recommend/"/>
+    <id>https://karlbaey.top/articles/Markdown-editors-recommend/</id>
     <published>2025-03-01T15:52:50.000Z</published>
     <updated>2025-03-15T16:05:53.524Z</updated>
     
@@ -80,19 +80,19 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="Reviews" scheme="https://karlbaey101.github.io/tags/Reviews/"/>
+    <category term="Reviews" scheme="https://karlbaey.top/tags/Reviews/"/>
     
-    <category term="Guide" scheme="https://karlbaey101.github.io/tags/Guide/"/>
+    <category term="Guide" scheme="https://karlbaey.top/tags/Guide/"/>
     
   </entry>
   
   <entry>
     <title>Markdown 语法速查</title>
-    <link href="https://karlbaey101.github.io/articles/Markdown-grammar-quick-reference/"/>
-    <id>https://karlbaey101.github.io/articles/Markdown-grammar-quick-reference/</id>
+    <link href="https://karlbaey.top/articles/Markdown-grammar-quick-reference/"/>
+    <id>https://karlbaey.top/articles/Markdown-grammar-quick-reference/</id>
     <published>2025-02-21T12:39:15.000Z</published>
     <updated>2025-03-01T15:51:56.506Z</updated>
     
@@ -103,17 +103,17 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="Guide" scheme="https://karlbaey101.github.io/tags/Guide/"/>
+    <category term="Guide" scheme="https://karlbaey.top/tags/Guide/"/>
     
   </entry>
   
   <entry>
     <title>不会再有的地方//Lieu Évanoui</title>
-    <link href="https://karlbaey101.github.io/articles/Lieu-Evanoui/"/>
-    <id>https://karlbaey101.github.io/articles/Lieu-Evanoui/</id>
+    <link href="https://karlbaey.top/articles/Lieu-Evanoui/"/>
+    <id>https://karlbaey.top/articles/Lieu-Evanoui/</id>
     <published>2025-02-15T13:08:19.000Z</published>
     <updated>2025-02-15T17:26:51.333Z</updated>
     
@@ -124,21 +124,21 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="DailyLife" scheme="https://karlbaey101.github.io/tags/DailyLife/"/>
+    <category term="DailyLife" scheme="https://karlbaey.top/tags/DailyLife/"/>
     
-    <category term="Past" scheme="https://karlbaey101.github.io/tags/Past/"/>
+    <category term="Past" scheme="https://karlbaey.top/tags/Past/"/>
     
-    <category term="Sadness" scheme="https://karlbaey101.github.io/tags/Sadness/"/>
+    <category term="Sadness" scheme="https://karlbaey.top/tags/Sadness/"/>
     
   </entry>
   
   <entry>
     <title>评论系统上线！🎇</title>
-    <link href="https://karlbaey101.github.io/articles/commenting-system-launch/"/>
-    <id>https://karlbaey101.github.io/articles/commenting-system-launch/</id>
+    <link href="https://karlbaey.top/articles/commenting-system-launch/"/>
+    <id>https://karlbaey.top/articles/commenting-system-launch/</id>
     <published>2025-02-10T09:11:13.000Z</published>
     <updated>2025-03-22T06:55:47.197Z</updated>
     
@@ -149,19 +149,19 @@
     
     
     
-    <category term="Tech" scheme="https://karlbaey101.github.io/categories/Tech/"/>
+    <category term="Tech" scheme="https://karlbaey.top/categories/Tech/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="DailyLife" scheme="https://karlbaey101.github.io/tags/DailyLife/"/>
+    <category term="DailyLife" scheme="https://karlbaey.top/tags/DailyLife/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 博客与你</title>
-    <link href="https://karlbaey101.github.io/articles/Hexo-blog-and-you/"/>
-    <id>https://karlbaey101.github.io/articles/Hexo-blog-and-you/</id>
+    <link href="https://karlbaey.top/articles/Hexo-blog-and-you/"/>
+    <id>https://karlbaey.top/articles/Hexo-blog-and-you/</id>
     <published>2025-02-09T12:13:15.000Z</published>
     <updated>2025-03-01T15:51:55.428Z</updated>
     
@@ -172,23 +172,23 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="GettingStarted" scheme="https://karlbaey101.github.io/tags/GettingStarted/"/>
+    <category term="GettingStarted" scheme="https://karlbaey.top/tags/GettingStarted/"/>
     
-    <category term="GitHub" scheme="https://karlbaey101.github.io/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://karlbaey.top/tags/GitHub/"/>
     
-    <category term="Guide" scheme="https://karlbaey101.github.io/tags/Guide/"/>
+    <category term="Guide" scheme="https://karlbaey.top/tags/Guide/"/>
     
   </entry>
   
   <entry>
     <title>HELLTAKER评测</title>
-    <link href="https://karlbaey101.github.io/articles/HELLTAKER-Review/"/>
-    <id>https://karlbaey101.github.io/articles/HELLTAKER-Review/</id>
+    <link href="https://karlbaey.top/articles/HELLTAKER-Review/"/>
+    <id>https://karlbaey.top/articles/HELLTAKER-Review/</id>
     <published>2025-02-09T11:51:49.000Z</published>
     <updated>2025-03-15T16:56:02.618Z</updated>
     
@@ -199,21 +199,21 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="Steamgames" scheme="https://karlbaey101.github.io/tags/Steamgames/"/>
+    <category term="Steamgames" scheme="https://karlbaey.top/tags/Steamgames/"/>
     
-    <category term="Reviews" scheme="https://karlbaey101.github.io/tags/Reviews/"/>
+    <category term="Reviews" scheme="https://karlbaey.top/tags/Reviews/"/>
     
   </entry>
   
   <entry>
     <title>十年边缘//The Edge of a Decade</title>
-    <link href="https://karlbaey101.github.io/articles/the-edge-of-a-decade/"/>
-    <id>https://karlbaey101.github.io/articles/the-edge-of-a-decade/</id>
+    <link href="https://karlbaey.top/articles/the-edge-of-a-decade/"/>
+    <id>https://karlbaey.top/articles/the-edge-of-a-decade/</id>
     <published>2025-02-09T07:37:06.000Z</published>
     <updated>2025-03-01T15:51:23.758Z</updated>
     
@@ -224,21 +224,21 @@
     
     
     
-    <category term="Tales" scheme="https://karlbaey101.github.io/categories/Tales/"/>
+    <category term="Tales" scheme="https://karlbaey.top/categories/Tales/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="Past" scheme="https://karlbaey101.github.io/tags/Past/"/>
+    <category term="Past" scheme="https://karlbaey.top/tags/Past/"/>
     
-    <category term="Original" scheme="https://karlbaey101.github.io/tags/Original/"/>
+    <category term="Original" scheme="https://karlbaey.top/tags/Original/"/>
     
   </entry>
   
   <entry>
     <title>修复成功MVP结算</title>
-    <link href="https://karlbaey101.github.io/articles/repair-success/"/>
-    <id>https://karlbaey101.github.io/articles/repair-success/</id>
+    <link href="https://karlbaey.top/articles/repair-success/"/>
+    <id>https://karlbaey.top/articles/repair-success/</id>
     <published>2025-02-08T15:32:52.000Z</published>
     <updated>2025-02-22T16:36:00.805Z</updated>
     
@@ -249,19 +249,19 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="Delights" scheme="https://karlbaey101.github.io/tags/Delights/"/>
+    <category term="Delights" scheme="https://karlbaey.top/tags/Delights/"/>
     
-    <category term="DailyLife" scheme="https://karlbaey101.github.io/tags/DailyLife/"/>
+    <category term="DailyLife" scheme="https://karlbaey.top/tags/DailyLife/"/>
     
   </entry>
   
   <entry>
     <title>第一篇博客</title>
-    <link href="https://karlbaey101.github.io/articles/my-first-blog/"/>
-    <id>https://karlbaey101.github.io/articles/my-first-blog/</id>
+    <link href="https://karlbaey.top/articles/my-first-blog/"/>
+    <id>https://karlbaey.top/articles/my-first-blog/</id>
     <published>2025-02-08T09:40:24.000Z</published>
     <updated>2025-03-15T14:19:32.008Z</updated>
     
@@ -272,10 +272,10 @@
     
     
     
-    <category term="Karlblogs" scheme="https://karlbaey101.github.io/categories/Karlblogs/"/>
+    <category term="Karlblogs" scheme="https://karlbaey.top/categories/Karlblogs/"/>
     
     
-    <category term="GettingStarted" scheme="https://karlbaey101.github.io/tags/GettingStarted/"/>
+    <category term="GettingStarted" scheme="https://karlbaey.top/tags/GettingStarted/"/>
     
   </entry>
   
